@@ -1,4 +1,4 @@
-# Python-Finel-Project
+# Python-Final-Project
 Итоговый проект курса аналитики
 
 Финальный проект курса аналитики
